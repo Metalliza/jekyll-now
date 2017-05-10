@@ -394,11 +394,11 @@ GitWeb은 CGI를 지원하는 웹서버라면 아무거나 사용할 수 있다.
 - 기본 사용자 이름 : admin@local.host
 - 기본 비밀번호 : 5iveL!fe
 
-![그림 4-3 GitLab 메뉴의 Admin area 버튼](../images/gitlab-menu.png )
+![그림 4-3 GitLab 메뉴의 Admin area 버튼](../images/gitlab-menu.png)
 그림 4-3 GitLab 메뉴의 Admin area 버튼
 
 
-####사용자####
+#### 사용자 ####
 
 한사람당 하나씩 만든다.
 ![그림 4-4 GitLab 사용자의 관리 화면](../images/gitlab-users.png) 
@@ -411,7 +411,7 @@ GitWeb은 CGI를 지원하는 웹서버라면 아무거나 사용할 수 있다.
 
 권한 묶음
 
-![그림 4-5 GitLab의 그룹 관리 화면](../images/gitlab-groups.png) 
+![그림 4-5 GitLab의 그룹 관리 화면](../images/gitlab-groups.png)
 그림 4-5 GitLab 그룹 관리 화면
 
 그룹 권한과 그룹의 프로젝트별 관한이 따로 존재한다.
